@@ -1,0 +1,1 @@
+"""Local marker detection adapters."""
