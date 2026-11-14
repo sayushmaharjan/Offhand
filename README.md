@@ -2,7 +2,7 @@
 
 A local, webcam-controlled infinite whiteboard. Draw with a mouse, your index finger, or a pen with a colored marker. Your handwriting stays as editable vector strokes; there is no OCR or cloud vision service.
 
-The complete application is in [`aircanvas/frontend`](aircanvas/frontend). The optional colored-marker service is in [`aircanvas/backend`](aircanvas/backend). `instructions.md` is the original product brief.
+The complete application is in [`aircanvas/frontend`](aircanvas/frontend). The optional colored-marker service is in [`aircanvas/backend`](aircanvas/backend).
 
 ## Run it
 
